@@ -5,7 +5,7 @@
   "main": "package.json",
   "author": "Nick DiMatteo <hello@nickdimatteo.com>",
   "scripts": {
-    "build": "sanity build",
+    "build": "npx sanity build",
     "dev": "sanity start",
     "test": "sanity check"
   },
